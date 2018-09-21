@@ -13,7 +13,7 @@ For chat room: [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://git
 
 ### Maven Central [![mockserver](https://maven-badges.herokuapp.com/maven-central/org.mock-server/mockserver-netty/badge.svg?style=flat)](http://search.maven.org/#search%7Cga%7C1%7Cmockserver)
 
-Maven Central contains the following MockServer artifacts:
+Maven Central contasins the following MockServer artifacts:
 
 * [mockserver-netty](https://maven-badges.herokuapp.com/maven-central/org.mock-server/mockserver-netty) - an HTTP(S) web server that mocks and records requests and responses
 * [mockserver-netty:jar-with-dependencies](https://maven-badges.herokuapp.com/maven-central/org.mock-server/mockserver-netty) - mockserver-netty (as above) with all dependencies embedded
